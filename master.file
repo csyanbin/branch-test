@@ -1,1 +1,5 @@
 Edit this line in Branch1, which will generate conflict with Branch1-conflict
+Branch1-conflict edit in this line
+
+>> This is the file after resolving conflict of Branch1-conflict and Branch 1
+>> And then merge Branch1-conflict into Branch1: add lines in master.file, add a new file Branch1-conflict.file
